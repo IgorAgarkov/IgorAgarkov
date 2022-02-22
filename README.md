@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IgorAgarkov
+- 👋 Hi, I’m  Igor Agarkov
 - 👀 I’m interested in data analitics
 - 🌱 I’m currently learning SQL, Git, Python, statistics, Tableau and product analytics
 
